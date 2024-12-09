@@ -4,7 +4,9 @@ This project demonstrates the integration of HashiCorp Vault and Terraform to se
 
 **Features**
 
-Secure Secrets Management: Use HashiCorp Vault to store and manage sensitive credentials.
-Infrastructure as Code: Automate AWS resource creation with Terraform.
-Dynamic Secret Injection: Fetch secrets from Vault and apply them during resource provisioning.
+1.Secure Secrets Management: Use HashiCorp Vault to store and manage sensitive credentials.
+
+2.Infrastructure as Code: Automate AWS resource creation with Terraform.
+
+3.Dynamic Secret Injection: Fetch secrets from Vault and apply them during resource provisioning.
 
